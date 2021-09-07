@@ -5,11 +5,11 @@
 
 I am an enthusiastic, highly motivated Computer Science student with leadership capabilities who like to take the initiative and seek new challenges in both computer and business domains, and I am fascinated by Data Science.
 
-- 🌱 I’m currently learning **C, C++ and Data Structures**
+- 🌱 I’m currently learning **C++, Java and Data Structures**
 
-- 👨‍💻 All of my projects are available at [ashwin3082002.github.io](ashwin3082002.github.io)
+- 👨‍💻 All of my projects are available at [ashwin3082002.github.io](https://github.com/ashwin3082002?tab=repositories)
 
-- 📫 How to reach me **ashwin3082002@gmail.com**
+- 📫 How to reach me **ashwin@ashwinr.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
