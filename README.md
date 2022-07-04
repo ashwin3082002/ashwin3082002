@@ -9,7 +9,7 @@ I am an enthusiastic, highly motivated Computer Science student with leadership 
 
 - 👨‍💻 All of my projects are available at [ashwin3082002.github.io](https://github.com/ashwin3082002?tab=repositories)
 
-- 📫 How to reach me **ashwin@ashwinr.tech**
+- 📫 How to reach me **me@ashwinr.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
